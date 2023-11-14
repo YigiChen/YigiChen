@@ -150,5 +150,5 @@
   <br>
   <a href="/CREDITS.md">Click to see Credits</a>
   <br><br>
-  <img src="https://media.tenor.com/fYqoO5uCAqkAAAAd/ukserver-emoral.gif">
+  <img src="https://media.tenor.com/2gyy4BcsLWsAAAAd/monkey-confused.gif">
 </p>
