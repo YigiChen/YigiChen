@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/banner.png">
+  <img src="https://media.tenor.com/lrXZgcEFGwYAAAAC/kachow.gif">
 </p>
 
 <img align="right" src="assets/emoji.gif" width="40px">
@@ -13,16 +13,13 @@
     
   <p align="center">
     <br>
-    Hello, I am <b>Pikod</b>. My real name is <b>Yahya</b>. I live in <b>Denizli, Turkey</b>
-    <br>I was born in 2005 and I have been improving myself at programming since I was 12 years old.
-    <br>These are some of my social media accounts that you can get contact with me:
+    Hello, I am <b>YigiChen</b>.I live in <b>Earth</b>
+    <br>I was born in 2003 and I'm studying programming.
+    <br>One day I'll be a Gopher.
+    <br>special thx to all of teachers
   </p>
 
   <p align="center">
-    <a href="https://instagram.com/hzpikod" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href="https://twitter.com/hzpikod" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-    <a href="https://facebook.com/pikod.vbs" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-    <a href="https://youtube.com/c/Pikod" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a><br>
     <img src="https://komarev.com/ghpvc/?username=bypikod&style=for-the-badge">
   </p>
 </p>
@@ -35,7 +32,7 @@
 <h1 align="center">Trophies</h1>
 <p align="center">
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ByPikod&no-frame=true&margin-w=25&margin-h=25&theme=radical&column=3&row=3" width="60%">
+  <img src="https://github-profile-trophy.vercel.app/?username=YigiChen&no-frame=true&margin-w=25&margin-h=25&theme=radical&column=3&row=3" width="60%">
   <br><br>
 </p>
 
@@ -46,14 +43,14 @@
 <h1 align="center">Statistics</h1>
 <p align="center">
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=ByPikod&theme=radical">
+  <img src="https://streak-stats.demolab.com/?user=YigiChen&theme=radical">
   <br><br>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ByPikod&theme=radical">
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=YigiChen&theme=radical">
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ByPikod&theme=radical" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ByPikod&theme=radical&layout=donut" height="200"><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByPikod&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="80%"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bypikod&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=YigiChen&theme=radical" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YigiChen&theme=radical&layout=donut" height="200"><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YigiChen&bg_color=141321&color=A9FEF7&radius=16&point=f8d847&title_color=FE428E" width="80%"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YigiChen&theme=radical">
   <p align="center">
     <b>Since 14.10.2023</b>
   </p>
@@ -119,16 +116,16 @@
 <br>
 <p align="center">
   <a align="center" href="https://github.com/ByPikod/go-crypto">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByPikod&repo=go-crypto&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YigiChen&repo=go-crypto&theme=radical">
   </a>
 </p>
 
 <p align="center">
   <a align="center" href="https://github.com/ByPikod/vscode-markdown-alert">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByPikod&repo=vscode-markdown-alert&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YigiChen&repo=vscode-markdown-alert&theme=radical">
   </a>
   <a align="center" href="https://github.com/ByPikod/markdown-it-github-alert">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ByPikod&repo=markdown-it-github-alert&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YigiChen&repo=markdown-it-github-alert&theme=radical">
   </a>
 </p>
 
@@ -153,6 +150,5 @@
   <br>
   <a href="/CREDITS.md">Click to see Credits</a>
   <br><br>
-  <img src="https://media.tenor.com/orTKpX4YeBAAAAAC/hello-jack.gif">
-  <img src="https://readme-typing-svg.demolab.com/?lines=THANKS FOR VISITING MY PROFILE!&center=true">
+  <img src="https://media.tenor.com/fYqoO5uCAqkAAAAd/ukserver-emoral.gif">
 </p>
