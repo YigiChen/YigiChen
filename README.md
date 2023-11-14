@@ -61,51 +61,10 @@
 <img align="left" src="assets/emoji.gif" width="40px">
 
 <h1 align="center">Abilities</h1>
-<p align="center">
-  Claiming to have an ability to something may have a different meaning for each individual. 
-  To avoid confusion, I should mention that the following tools and equipment are items I have used in at least one of my projects.
-</p>
 
-<h6 align="center">Programming Languages</h6>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,lua,js,nodejs,ts,php,python,go">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,php,go,photoshop,illustrator,vscode,linux">
 </p>
-
-<h6 align="center">Front End</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,sass,jquery,bootstrap,tailwind,webpack,electron">
-</p>
-
-<h6 align="center">Back End</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,spring">
-  <!-- also: swagger -->
-</p>
-
-<h6 align="center">Web</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,cloudflare,nginx,express,wordpress">
-</p>
-
-<h6 align="center">DevOps</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,kafka,jenkins,grafana,githubactions,docker,prometheus,git,github">
-  <!-- also: trello -->
-</p>
-
-<h6 align="center">Other Tools</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,androidstudio,md,raspberrypi,arduino,regex">
-</p>
-
-<h6 align="center">Design Tools</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,blender">
-</p>
-
-<h6 align="center">Databases</h6>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,redis,postgres">
 </p>
 
 <!-- Projects -->
